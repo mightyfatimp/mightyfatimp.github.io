@@ -1,0 +1,4 @@
+baseURL = 'https://mightyfatimp.githu.io/'
+languageCode = 'en-us'
+title = 'Writing practice'
+theme = "PaperMod"
